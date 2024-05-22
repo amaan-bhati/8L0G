@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@emotion/is-prop-valid": "^1.2.2",
+    
     "@opentelemetry/api": "^1.4.1",
     "@types/node": "18.15.11",
     "@types/react": "18.0.33",
